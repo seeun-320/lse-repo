@@ -1,3 +1,4 @@
 create new file
 
 master 1st modified -local
+master 2nd modified -remote
