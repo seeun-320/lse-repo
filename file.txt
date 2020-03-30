@@ -4,3 +4,4 @@ master 1st modified -local
 master 2nd modified -remote
 
 branch1 1st modified -local
+branch2 1st modified -local
